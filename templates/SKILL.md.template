@@ -1,0 +1,35 @@
+---
+name: <skill-name>
+description: <What it does + when to use it. Be specific, include key terms, slightly "pushy" for triggering. Max 1024 chars.>
+metadata:
+  version: "1.0.0"
+  created: "<YYYY-MM-DD>"
+  updated: "<YYYY-MM-DD>"
+  author: gmqiyue
+---
+
+## Overview
+
+<One-line summary of what this skill enables the agent to do.>
+
+## Workflow
+
+1. <Step one>
+2. <Step two>
+3. <Step three>
+
+## Key Commands / API
+
+<Core commands, API calls, or configuration patterns the agent needs.>
+
+## Common Patterns
+
+<How experienced users actually use this tool. Concrete examples.>
+
+## Gotchas
+
+<Non-obvious defaults, footguns, common mistakes.>
+
+## Boundaries
+
+<What this skill does NOT cover. Explicit negative scope.>

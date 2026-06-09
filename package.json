@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "packageManager": "pnpm@11.5.2",
+  "engines": {
+    "pnpm": "^11.0.0"
+  },
+  "type": "module",
+  "scripts": {
+    "sync": "tsx scripts/sync-sources.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.2",
+    "tsx": "^4.19.0",
+    "typescript": "^6.0.3",
+    "yaml": "^2.7.0"
+  }
+}

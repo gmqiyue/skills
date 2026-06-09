@@ -1,0 +1,36 @@
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Dependencies
+node_modules/
+
+# Build
+dist/
+*.tsbuildinfo
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Test
+coverage/
+
+# Temp
+.tmp/
+tmp/

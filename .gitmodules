@@ -1,0 +1,4 @@
+[submodule "sources/vite"]
+	path = sources/vite
+	url = https://github.com/vitejs/vite
+	branch = main
