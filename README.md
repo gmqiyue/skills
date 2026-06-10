@@ -10,13 +10,13 @@
 
 ```bash
 # 安装全部技能
-pnpx skills add <owner>/skills --skill='*'
+pnpx skills add gmqiyue/skills --skill='*'
 
 # 安装指定技能
-pnpx skills add <owner>/skills --skill vite
+pnpx skills add gmqiyue/skills --skill nameit
 
 # 全局安装（对所有项目生效）
-pnpx skills add <owner>/skills --skill='*' -g
+pnpx skills add gmqiyue/skills --skill='*' -g
 ```
 
 更多用法参见 [skills CLI 文档](https://github.com/vercel-labs/skills)。
